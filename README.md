@@ -12,7 +12,7 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 1. slot
 2. axios
 3. 基础router, 路由重定向, 路由带参数
-4. import 使用@ alias
+4. import 使用@ alias, 且需要添加jsconfig.json文件，否则代码在vscode不会有智能提示
 5. 基础布局 header sidebar content
 6. 过过渡动画，元素出现 消失时候的动画
 
